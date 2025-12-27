@@ -1,0 +1,8 @@
+langchain-mcp-adapters
+langgraph
+langchain-openai
+pymilvus
+sentence-transformers
+asyncio
+fastapi
+uvicorn
